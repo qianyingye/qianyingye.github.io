@@ -22,27 +22,28 @@ Work experience
 ======
 * Feb 2022 – May 2022: Part-time Research Assistant
   * Department of Asian and International Studies, City University of Hong Kong
-  * Duties included: Data analysis and visualization
-  * Project: [Base Towns: Local Contestation of Global U.S. Military Presence in Korea and Japan](https://www.amazon.com/Base-Towns-Contestation-Military-POLITICS/dp/0197665276))
   * Supervisor: Dr. Claudia Kim
+  * Project: [Base Towns: Local Contestation of Global U.S. Military Presence in Korea and Japan](https://www.amazon.com/Base-Towns-Contestation-Military-POLITICS/dp/0197665276)
+  * Duties included: Data analysis and visualization
 
 * Aug 2019 – Jul 2020: Research Associate
   * School of Law, City University of Hong Kong
-  * Duties included: Group Leader, Data collection and analysis 
-  * Project: [Are Chinese Courts Pro-Labor or Pro-Employer?](https://www.scopus.com/record/display.uri?eid=2-s2.0-85128674338&origin=recordpage)(GRF- 90429149)
   * Supervisor: Dr. Chan Chi Hin Peter
+  * Project: [Are Chinese Courts Pro-Labor or Pro-Employer?](https://www.scopus.com/record/display.uri?eid=2-s2.0-85128674338&origin=recordpage)(GRF- 90429149)
+  * Duties included: Group Leader, Data collection and analysis 
   
 * Apr 2019 – Jul 2019: Part-time Research Assistant
   * School of Law, City University of Hong Kong
-  * Duties included: Data collection and analysis
-  * Project : [Gender Inequality in Chinese Courts: the Case of Married-Out Women and Their Rural Land Rights](https://www.hastingslawjournal.org/do-the-haves-come-out-ahead-in-chinese-grassroots-courts-rural-land-disputes-between-married-out-women-and-village-collectives/)(ECS-9048112)
   * Supervisor: Dr. Chan Chi Hin Peter
+  * Project : [Gender Inequality in Chinese Courts: the Case of Married-Out Women and Their Rural Land Rights](https://www.hastingslawjournal.org/do-the-haves-come-out-ahead-in-chinese-grassroots-courts-rural-land-disputes-between-married-out-women-and-village-collectives/)(ECS-9048112)
+  * Duties included: Data collection and analysis
   
 * Jan 2019 – Aug 2020: Research Assistant
   * Department of Media and Communication, City University of Hong Kong
-  * Duties included: Data collection and analysis (Project No.: GRF-11600717)
-  * Project website: [Hong Kong Online Public Opinion Data Mining Project](http://www.webopinion.hk)
   * Supervisor: : Dr. Fei Shen Chris
+  * Project website: [Hong Kong Online Public Opinion Data Mining Project](http://www.webopinion.hk)(GRF-11600717)
+  * Duties included: Data collection and analysis 
+
   
 Skills
 ======
@@ -69,7 +70,4 @@ Teaching
   
 Service
 ======
-*   <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 * Currently in [Political Analysis Lab](https://www.cityu.edu.hk/pia/pal/)
