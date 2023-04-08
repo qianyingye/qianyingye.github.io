@@ -18,7 +18,7 @@ Education
 * Summer institute, School of Journalism, Fudan University, Jul 2022
 * Ph.D in Political Communication, City University of Hong Kong, 2020-Present
 
-Work experience
+Research experience
 ======
 * Feb 2022 – May 2022: Part-time Research Assistant
   * Department of Asian and International Studies, City University of Hong Kong
