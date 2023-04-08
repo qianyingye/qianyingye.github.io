@@ -46,18 +46,19 @@ Research experience
 
 Publications
 ======
-* Wu, Y., Ye, Q., Shen, F., Zhang, Z., & Jiang, C. L. (2022). Country- and app-level factors affecting the adoption and evaluation of COVID-19 mobile apps. BMC Public Health, 22, [2457]. https://doi.org/10.1186/s12889-022-14918-8
-* Ye, Q. (2022). Who can be the Weibo supervisor? the co-production of social media governance in mainland China. Paper presented at 2022 International Association for Media and Communication Research Annual Conference (IAMCR 2022), Beijing, China.
-* Jin, X., Ye, Q., & Zhang, Y. (2021). Trust and Credibility: The Differences between Perceiving an AI Anchor as AI and Human. 71st Annual International Communication Association Conference (ICA21).
-* Qiu, S., An, Z., Ye, Q., & Jin, X. (2021). Political Identity as an Obstacle: The Effect of Local Identity and Perceived Benefit on Use Intention of Health Code in Hong Kong during COVID-19. 40-41. Paper presented at 2021 International Association for Media and Communication Research Conference (IAMCR 2021), Nairobi, Kenya.
-* Ye, Q., Zhang, Y., Hu, P., Wang, M., & Zhu, C. (2021). Acceptance of 5G in China based on TAM. AEJMC Midwinter Conference.
+* Wu, Y., **Ye, Q**., Shen, F., Zhang, Z., & Jiang, C. L. (2022). Country- and app-level factors affecting the adoption and evaluation of COVID-19 mobile apps. BMC Public Health, 22, [2457]. https://doi.org/10.1186/s12889-022-14918-8
+* **Ye, Q.** (2022). Who can be the Weibo supervisor? the co-production of social media governance in mainland China. Paper presented at 2022 International Association for Media and Communication Research Annual Conference (IAMCR 2022), Beijing, China.
+* Jin, X., **Ye, Q.**, & Zhang, Y. (2021). Trust and Credibility: The Differences between Perceiving an AI Anchor as AI and Human. 71st Annual International Communication Association Conference (ICA21).
+* Qiu, S., An, Z., **Ye, Q.**, & Jin, X. (2021). Political Identity as an Obstacle: The Effect of Local Identity and Perceived Benefit on Use Intention of Health Code in Hong Kong during COVID-19. 40-41. Paper presented at 2021 International Association for Media and Communication Research Conference (IAMCR 2021), Nairobi, Kenya.
+* **Ye, Q.**, Zhang, Y., Hu, P., Wang, M., & Zhu, C. (2021). Acceptance of 5G in China based on TAM. AEJMC Midwinter Conference.
 
 Research reports
 ======
-* Shen, F., Xia, C., Yu, W., Min, C., Wang, T., Wu, Y., & Ye, Q. (2021, May 14). Text-Mining Online Public Opinion in Hong Kong: Methods and Procedures. https://doi.org/10.31235/osf.io/b2mex
-* Shen, F., Xia, C., Yu, W., Min, C., Wang, T., Wu, Y., & Ye, Q. (2021, May 23). The Ebb and Flow of Public Sentiments in Hong Kong: Analyzing Public Opinion Online from 2000 to 2017. https://doi.org/10.31235/osf.io/52zbm
-* Shen, F., Xia, C., Yu, W., Min, C., Wang, T., Wu, Y., & Ye, Q. (2021, May 23). The Growth of Negative Sentiment in Post-Umbrella Movement Hong Kong: Analyzing Public Opinion Online from 2017 to 2019. https://doi.org/10.31235/osf.io/tnxw4
-* Shen, F., Yu, W., Min, C., Ye, Q., Xia, C., Wang, T., & Wu, Y. (2021, June 3). CyberCan: A New Dictionary for Cantonese Social Media Text Segmentation. https://doi.org/10.31235/osf.io/tyjr7
+* Shen, F., Yu, W., Min, C., **Ye, Q.**, Xia, C., Wang, T., & Wu, Y. (2021, June 3). CyberCan: A New Dictionary for Cantonese Social Media Text Segmentation. https://doi.org/10.31235/osf.io/tyjr7
+* Shen, F., Xia, C., Yu, W., Min, C., Wang, T., Wu, Y., & **Ye, Q.** (2021, May 14). Text-Mining Online Public Opinion in Hong Kong: Methods and Procedures. https://doi.org/10.31235/osf.io/b2mex
+* Shen, F., Xia, C., Yu, W., Min, C., Wang, T., Wu, Y., & **Ye, Q.** (2021, May 23). The Ebb and Flow of Public Sentiments in Hong Kong: Analyzing Public Opinion Online from 2000 to 2017. https://doi.org/10.31235/osf.io/52zbm
+* Shen, F., Xia, C., Yu, W., Min, C., Wang, T., Wu, Y., & **Ye, Q.** (2021, May 23). The Growth of Negative Sentiment in Post-Umbrella Movement Hong Kong: Analyzing Public Opinion Online from 2017 to 2019. https://doi.org/10.31235/osf.io/tnxw4
+
   
 Teaching Assistant
 ======
