@@ -29,11 +29,6 @@ Work experience
   * School of Law, City University of Hong Kong
   * Duties included: Group Leader, Data collection and analysis (Project No.: GRF- 9042914)
   * Supervisor: Dr. Chan Chi Hin Peter
-
-* Apr 2019 – Jul 2019: Part-time Research Assistant
-  * School of Law, City University of Hong Kong
-  * Duties included: Data collection and analysis (Project No.: ECS-9048112)
-  * Supervisor: Dr. Chan Chi Hin Peter
   
 * Apr 2019 – Jul 2019: Part-time Research Assistant
   * School of Law, City University of Hong Kong
