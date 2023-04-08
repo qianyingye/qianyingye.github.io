@@ -38,7 +38,7 @@ Work experience
 * Jan 2019 – Aug 2020: Research Assistant
   * Department of Media and Communication, City University of Hong Kong
   * Duties included: Data collection and analysis (Project No.: GRF-11600717)
-  * Project website: http://www.webopinion.hk
+  * Project website: [Hong Kong Online Public Opinion Data Mining Project](http://www.webopinion.hk)
   * Supervisor: : Dr. Fei Shen Chris
   
 Skills
