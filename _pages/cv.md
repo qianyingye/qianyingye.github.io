@@ -35,7 +35,7 @@ Work experience
   * Duties included: Data collection and analysis (Project No.: ECS-9048112)
   * Supervisor: Dr. Chan Chi Hin Peter
 
-*  Jan 2019 – Aug 2020: Research Assistant
+* Jan 2019 – Aug 2020: Research Assistant
   * Department of Media and Communication, City University of Hong Kong
   * Duties included: Data collection and analysis (Project No.: GRF-11600717)
   * Project website: http://www.webopinion.hk
