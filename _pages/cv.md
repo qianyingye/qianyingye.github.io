@@ -44,11 +44,6 @@ Work experience
   * Project website: [Hong Kong Online Public Opinion Data Mining Project](http://www.webopinion.hk)(GRF-11600717)
   * Duties included: Data collection and analysis 
 
-Skills
-======
-* Python/R/SPSS/STATA
-* Linux/Html/MySQL
-
 Publications
 ======
 * Wu, Y., Ye, Q., Shen, F., Zhang, Z., & Jiang, C. L. (2022). Country- and app-level factors affecting the adoption and evaluation of COVID-19 mobile apps. BMC Public Health, 22, [2457]. https://doi.org/10.1186/s12889-022-14918-8
@@ -68,6 +63,11 @@ Teaching Assistant
 ======
 * PIA3607 - Advanced Research Methodology
 * PIA3120 - Politics and Media
+
+Skills
+======
+* Python/R/SPSS/STATA
+* Linux/Html/MySQL
   
 Service
 ======
