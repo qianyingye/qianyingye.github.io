@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Qianying YE"
 title_separator          : "-"
 name                     : &name "Qianying YE"
-description              : &description "Ph.D Candidate in Political Communication"
+description              : &description "Ph.D Candidate in Political Communication, City University of Hong Kong"
 url                      : https://qianyingye.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qianyingye/qianyingye.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Qianying YE"
   avatar           : "profile.png"
-  bio              : "Ph.D Candidate|City University of Hong Kong"
+  bio              : "Ph.D Candidate"
   location         : "Hong Kong"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
