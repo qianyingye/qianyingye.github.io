@@ -22,17 +22,20 @@ Work experience
 ======
 * Feb 2022 – May 2022: Part-time Research Assistant
   * Department of Asian and International Studies, City University of Hong Kong
-  * Duties included: Group Leader, Data collection and analysis (Project Name: Base Towns: Local Contestation of Global U.S. Military Presence in Korea and Japan)
+  * Duties included: Data analysis and visualization
+  * Project: [Base Towns: Local Contestation of Global U.S. Military Presence in Korea and Japan](https://www.amazon.com/Base-Towns-Contestation-Military-POLITICS/dp/0197665276))
   * Supervisor: Dr. Claudia Kim
 
 * Aug 2019 – Jul 2020: Research Associate
   * School of Law, City University of Hong Kong
-  * Duties included: Group Leader, Data collection and analysis (Project No.: GRF- 9042914)
+  * Duties included: Group Leader, Data collection and analysis 
+  * Project: [Are Chinese Courts Pro-Labor or Pro-Employer?](https://www.scopus.com/record/display.uri?eid=2-s2.0-85128674338&origin=recordpage)(GRF- 90429149)
   * Supervisor: Dr. Chan Chi Hin Peter
   
 * Apr 2019 – Jul 2019: Part-time Research Assistant
   * School of Law, City University of Hong Kong
-  * Duties included: Data collection and analysis (Project No.: ECS-9048112)
+  * Duties included: Data collection and analysis
+  * Project : [Gender Inequality in Chinese Courts: the Case of Married-Out Women and Their Rural Land Rights](https://www.hastingslawjournal.org/do-the-haves-come-out-ahead-in-chinese-grassroots-courts-rural-land-disputes-between-married-out-women-and-village-collectives/)(ECS-9048112)
   * Supervisor: Dr. Chan Chi Hin Peter
   
 * Jan 2019 – Aug 2020: Research Assistant
