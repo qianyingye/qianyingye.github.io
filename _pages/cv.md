@@ -66,4 +66,7 @@ Teaching
   
 Service
 ======
-* Currently in Political Analysis Lab(https://www.cityu.edu.hk/pia/pal/)
+*   <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+* [Currently in Political Analysis Lab](https://www.cityu.edu.hk/pia/pal/)
