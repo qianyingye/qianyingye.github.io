@@ -62,11 +62,10 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Teaching Assistant
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* PIA3607 - Advanced Research Methodology
+* PIA3120 - Politics and Media
   
 Service
 ======
