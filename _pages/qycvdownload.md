@@ -13,7 +13,7 @@ redirect_from:
 <html>
   <body>
     <h1></h1>
-    <iframe src="qianyingye.github.io/files/YE, QIANYING-CV.pdf" width="100%" height="500px">
+    <iframe src="files/YE, QIANYING-CV.pdf" width="100%" height="500px">
     </iframe>
   </body>
 </html>
