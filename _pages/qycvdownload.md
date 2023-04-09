@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /cvdownload/
+permalink: /qycvdownload/
 author_profile: true
 redirect_from:
   - /resume
