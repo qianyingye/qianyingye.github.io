@@ -40,7 +40,7 @@ Research experience
   
 * Jan 2019 – Aug 2020: Research Assistant
   * Department of Media and Communication, City University of Hong Kong
-  * Supervisor: : Dr. Fei Shen Chris
+  * Supervisor: Dr. Fei Shen Chris
   * Project website: [Hong Kong Online Public Opinion Data Mining Project](http://www.webopinion.hk)(GRF-11600717)
   * Duties included: Data collection and analysis 
 
