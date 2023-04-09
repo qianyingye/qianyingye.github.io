@@ -9,12 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-
-<html>
-  <body>
-    <h1></h1>
-    <iframe src="/files/qycv.pdf" width="100%" height="500px">
-    </iframe>
-  </body>
-</html>
-<p>You can download a PDF copy of my CV <a href="/files/qycv.pdf">here</a>.</p>
+<center><embed src="/files/qycv.pdf" width="850" height="600"></center>
