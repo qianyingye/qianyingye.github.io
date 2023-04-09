@@ -14,7 +14,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Political Communication, City University of Hong Kong, 2020-Present
+* Ph.D. in Political Communication, City University of Hong Kong, 2020-Present
 * Summer institute, School of Journalism, Fudan University, Jul 2022
 * Summer institute, Zhou Enlai school of government, Nankai University, Jul 2022
 * Summer institute, School of Journalism, Fudan University, Jul 2021
