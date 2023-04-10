@@ -32,7 +32,7 @@ Research experience
 * Research Associate (FT), School of Law, City University of Hong Kong, Aug 2019 – Jul 2020
   * Supervisor: [Dr. Chan Chi Hin Peter](https://scholars.cityu.edu.hk/en/persons/chi-hin-peter-chan(a591ae8a-d0be-4128-a5ee-65606acb66bf).html)
   * Project1: [Are Chinese Courts Pro-Labor or Pro-Employer?](https://www.scopus.com/record/display.uri?eid=2-s2.0-85128674338&origin=recordpage)(GRF- 90429149)
-  * Project2: How are Defendants with Diminished Capacity Sentenced in China? – Cases of Intentionally Causing Bodily Harm to Others (School Strategic Research Grant)
+  * Project2: How are Defendants with Diminished Capacity Sentenced in China? (School Strategic Research Grant)
   * Duties included: Group Leader; data collection, analysis, and visualization; article writing
   
 * Research Assistant (PT), School of Law, City University of Hong Kong, Apr 2019 – Jul 2019
