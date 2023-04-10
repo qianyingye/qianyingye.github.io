@@ -62,11 +62,10 @@ Publications
 Research reports
 ======
 * Shen, F., Yu, W., Min, C., **Ye, Q.**, Xia, C., Wang, T., & Wu, Y. (2021, June 3). CyberCan: A New Dictionary for Cantonese Social Media Text Segmentation. [https://doi.org/10.31235/osf.io/tyjr7](https://doi.org/10.31235/osf.io/tyjr7)
-* Shen, F., Xia, C., Yu, W., Min, C., Wang, T., Wu, Y., & **Ye, Q.** (2021, May 14). Text-Mining Online Public Opinion in Hong Kong: Methods and Procedures. [https://doi.org/10.31235/osf.io/b2mex](https://doi.org/10.31235/osf.io/b2mex)
 * Shen, F., Xia, C., Yu, W., Min, C., Wang, T., Wu, Y., & **Ye, Q.** (2021, May 23). The Ebb and Flow of Public Sentiments in Hong Kong: Analyzing Public Opinion Online from 2000 to 2017. [https://doi.org/10.31235/osf.io/52zbm](https://doi.org/10.31235/osf.io/52zbm)
 * Shen, F., Xia, C., Yu, W., Min, C., Wang, T., Wu, Y., & **Ye, Q.** (2021, May 23). The Growth of Negative Sentiment in Post-Umbrella Movement Hong Kong: Analyzing Public Opinion Online from 2017 to 2019. [https://doi.org/10.31235/osf.io/tnxw4](https://doi.org/10.31235/osf.io/tnxw4)
+* Shen, F., Xia, C., Yu, W., Min, C., Wang, T., Wu, Y., & **Ye, Q.** (2021, May 14). Text-Mining Online Public Opinion in Hong Kong: Methods and Procedures. [https://doi.org/10.31235/osf.io/b2mex](https://doi.org/10.31235/osf.io/b2mex)
 
-  
 Teaching assistant
 ======
 * [PIA3607 - Advanced Research Methodology](https://www.cityu.edu.hk/catalogue/ug/current/course/PIA3607.htm)
