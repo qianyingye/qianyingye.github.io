@@ -47,7 +47,7 @@ Research experience
   * Project website: [Hong Kong Online Public Opinion Data Mining Project](http://www.webopinion.hk)(GRF-11600717)
   * Duties included: Data collection, analysis and visualization
 
-Publications
+Publication
 ======
 * **Ye, Q**. (2023). Exploring Collaborative Governance Approach for Misinformation on Chinese Social Media. 21st Annual International Conference on Communication and Mass Media 8-11 May 2023, Athens, Greece. (present)
 * Wu, Y., **Ye, Q**., Shen, F., Zhang, Z., & Jiang, C. L. (2022). Country- and app-level factors affecting the adoption and evaluation of COVID-19 mobile apps. BMC Public Health, 22, [2457]. [https://doi.org/10.1186/s12889-022-14918-8](https://doi.org/10.1186/s12889-022-14918-8)
@@ -56,7 +56,7 @@ Publications
 * Qiu, S., An, Z., **Ye, Q.**, & Jin, X. (2021). [Political Identity as an Obstacle: The Effect of Local Identity and Perceived Benefit on Use Intention of Health Code in Hong Kong during COVID-19.](https://scholars.cityu.edu.hk/en/publications/political-identity-as-an-obstacle(5b95a339-4fb2-4812-8b43-f2ffcf3f7bb8).html) 40-41. Paper presented at 2021 International Association for Media and Communication Research Conference (IAMCR 2021), Nairobi, Kenya.(present)
 * **Ye, Q.**, Zhang, Y., Hu, P., Wang, M., & Zhu, C. (2021). [Acceptance of 5G in China based on TAM.](https://scholars.cityu.edu.hk/en/publications/acceptance-of-5g-in-china-based-on-tam(180bd01b-09a7-4320-8636-a1306f37d1cb).html) AEJMC Midwinter Conference.(present)
 
-Research reports
+Research report
 ======
 * Shen, F., Yu, W., Min, C., **Ye, Q.**, Xia, C., Wang, T., & Wu, Y. (2021, June 3). CyberCan: A New Dictionary for Cantonese Social Media Text Segmentation. [https://doi.org/10.31235/osf.io/tyjr7](https://doi.org/10.31235/osf.io/tyjr7)
 * Shen, F., Xia, C., Yu, W., Min, C., Wang, T., Wu, Y., & **Ye, Q.** (2021, May 23). The Ebb and Flow of Public Sentiments in Hong Kong: Analyzing Public Opinion Online from 2000 to 2017. [https://doi.org/10.31235/osf.io/52zbm](https://doi.org/10.31235/osf.io/52zbm)
@@ -68,7 +68,7 @@ Teaching
 * Teaching Assistant, [PIA3607 - Advanced Research Methodology](https://www.cityu.edu.hk/catalogue/ug/current/course/PIA3607.htm), Sep 2022 - Dec 2022
 * Teaching Assistant, [PIA3120 - Politics and Media](https://www.cityu.edu.hk/catalogue/ug/current/course/PIA3120.htm), Jan 2022 - Apr 2022
 
-Skills
+Skill
 ======
 * Python/R/SPSS/STATA
 * Linux/Html/MySQL
