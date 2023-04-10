@@ -16,7 +16,7 @@ Education
 ======
 * Ph.D. in Political Communication, City University of Hong Kong, 2020-Present
 * M.A. in Communication and New Media, City University of Hong Kong, 2019
-* B.A. in Jounalism, Chang'an University, 2017
+* B.A. in Journalism, Chang'an University, 2017
 
 Summer institute
 ======
