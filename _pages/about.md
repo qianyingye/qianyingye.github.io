@@ -28,12 +28,14 @@ Research experience
   * Supervisor: [Dr. Claudia Kim](https://scholars.cityu.edu.hk/en/persons/claudia-junghyun-kim(de65455d-e3da-4aea-a311-65e51d800c2b).html)
   * Project: [Base Towns: Local Contestation of Global U.S. Military Presence in Korea and Japan](https://www.amazon.com/Base-Towns-Contestation-Military-POLITICS/dp/0197665276)
   * Duties included: Data analysis and visualization
+
 * Research Associate (FT) & Research Assistant (PT), School of Law, City University of Hong Kong, Aug 2019 – Jul 2020 & Apr 2019 – Jul 2019
   * Supervisor: [Dr. Chan Chi Hin Peter](https://scholars.cityu.edu.hk/en/persons/chi-hin-peter-chan(a591ae8a-d0be-4128-a5ee-65606acb66bf).html)  
   * Project: How are Defendants with Diminished Capacity Sentenced in China? (SSRG)
   * Project: [Gender Inequality in Chinese Courts: the Case of Married-Out Women and Their Rural Land Rights](https://www.hastingslawjournal.org/do-the-haves-come-out-ahead-in-chinese-grassroots-courts-rural-land-disputes-between-married-out-women-and-village-collectives/)(ECS-9048112)
   * Project: [Are Chinese Courts Pro-Labor or Pro-Employer?](https://www.scopus.com/record/display.uri?eid=2-s2.0-85128674338&origin=recordpage)(GRF-90429149)
   * Duties included: Group Leader; data collection, analysis, and visualization; article writing
+
 * Research Assistant (PT), Department of Media and Communication, City University of Hong Kong, Jan 2019 – Aug 2020
   * Supervisor: [Dr. Fei Shen Chris](https://www.cityu.edu.hk/com/Profile.aspx?u=feishen)
   * Project website: [Hong Kong Online Public Opinion Data Mining Project](http://www.webopinion.hk)(GRF-11600717)
