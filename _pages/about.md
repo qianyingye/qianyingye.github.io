@@ -21,7 +21,7 @@ Education
 Summer institute
 ======
 * School of Journalism, Fudan University, Jul 2022
-* Zhou Enlai school of government, Nankai University, Jul 2022
+* Zhou Enlai School of Government, Nankai University, Jul 2022
 * School of Journalism, Fudan University, Jul 2021
 
 Research experience
