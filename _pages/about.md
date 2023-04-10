@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 * Hi, this is Qianying YE. 
-* I am now pursuing the Ph.D. degree in the [Department of Public and International Affairs](https://www.cityu.edu.hk/pia/) (PIA) at [City University of Hong Kong](https://www.cityu.edu.hk) (CityU) under the supervision of [Dr. Edmund Cheng](https://scholars.cityu.edu.hk/en/persons/edmund-cheng(e4532e4c-b61b-4d00-aae4-8483bd9c2dab).html), [Dr. Fei Shen](https://www.cityu.edu.hk/com/Profile.aspx?u=feishen), and [Prof. Richard M WALKER](https://scholars.cityu.edu.hk/en/persons/richard-m-walker(4e5b1e30-0aff-48b9-9cb5-005df01e6c86).html). I am a research member in [Political Analysis Lab](https://www.cityu.edu.hk/pia/pal/).
-* My research interests include public opinion, media governance, and big data analysis.
+* I am now pursuing the Ph.D. degree in the [Department of Public and International Affairs](https://www.cityu.edu.hk/pia/) (PIA) at [City University of Hong Kong](https://www.cityu.edu.hk) (CityU) under the supervision of [Dr. Edmund Cheng](https://scholars.cityu.edu.hk/en/persons/edmund-cheng(e4532e4c-b61b-4d00-aae4-8483bd9c2dab).html), [Dr. Fei Shen](https://www.cityu.edu.hk/com/Profile.aspx?u=feishen), and [Prof. Richard M WALKER](https://scholars.cityu.edu.hk/en/persons/richard-m-walker(4e5b1e30-0aff-48b9-9cb5-005df01e6c86).html). I am a research member in [Political Analysis Lab](https://www.cityu.edu.hk/pia/pal/). My research interests include public opinion, media governance, and big data analysis.
 * I am also an amateur lyricist now, as one of the founders of a music culture studio in Shanghai.
 * Please feel free to contact me.
 
