@@ -29,16 +29,13 @@ Research experience
   * Project: [Base Towns: Local Contestation of Global U.S. Military Presence in Korea and Japan](https://www.amazon.com/Base-Towns-Contestation-Military-POLITICS/dp/0197665276)
   * Duties included: Data analysis and visualization
 
-* Research Associate (FT), School of Law, City University of Hong Kong, Aug 2019 – Jul 2020
-  * Supervisor: [Dr. Chan Chi Hin Peter](https://scholars.cityu.edu.hk/en/persons/chi-hin-peter-chan(a591ae8a-d0be-4128-a5ee-65606acb66bf).html)
-  * Project1: [Are Chinese Courts Pro-Labor or Pro-Employer?](https://www.scopus.com/record/display.uri?eid=2-s2.0-85128674338&origin=recordpage)(GRF- 90429149)
-  * Project2: How are Defendants with Diminished Capacity Sentenced in China? (School Strategic Research Grant)
+* Research Associate (FT) & Research Assistant (PT), School of Law, City University of Hong Kong, Aug 2019 – Jul 2020 & Apr 2019 – Jul 2019
+  * Supervisor: [Dr. Chan Chi Hin Peter](https://scholars.cityu.edu.hk/en/persons/chi-hin-peter-chan(a591ae8a-d0be-4128-a5ee-65606acb66bf).html)  
+  * Project 1: How are Defendants with Diminished Capacity Sentenced in China? (School Strategic Research Grant)
+  * Project 2: [Gender Inequality in Chinese Courts: the Case of Married-Out Women and Their Rural Land Rights](https://www.hastingslawjournal.org/do-the-haves-come-out-ahead-in-chinese-grassroots-courts-rural-land-disputes-between-married-out-women-and-village-collectives/)(ECS-9048112)
+  * Project 3: [Are Chinese Courts Pro-Labor or Pro-Employer?](https://www.scopus.com/record/display.uri?eid=2-s2.0-85128674338&origin=recordpage)(GRF- 90429149)
+
   * Duties included: Group Leader; data collection, analysis, and visualization; article writing
-  
-* Research Assistant (PT), School of Law, City University of Hong Kong, Apr 2019 – Jul 2019
-  * Supervisor: [Dr. Chan Chi Hin Peter](https://scholars.cityu.edu.hk/en/persons/chi-hin-peter-chan(a591ae8a-d0be-4128-a5ee-65606acb66bf).html)
-  * Project : [Gender Inequality in Chinese Courts: the Case of Married-Out Women and Their Rural Land Rights](https://www.hastingslawjournal.org/do-the-haves-come-out-ahead-in-chinese-grassroots-courts-rural-land-disputes-between-married-out-women-and-village-collectives/)(ECS-9048112)
-  * Duties included: Data collection and analysis
   
 * Research Assistant (PT), Department of Media and Communication, City University of Hong Kong, Jan 2019 – Aug 2020
   * Supervisor: [Dr. Fei Shen Chris](https://www.cityu.edu.hk/com/Profile.aspx?u=feishen)
