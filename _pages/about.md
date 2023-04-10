@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 * Hi, this is Qianying YE. 
-* I am now pursuing the Ph.D. degree in the [Department of Public and International Affairs](https://www.cityu.edu.hk/pia/) at [City University of Hong Kong](https://www.cityu.edu.hk) under the supervision of [Dr. Edmund Cheng](https://scholars.cityu.edu.hk/en/persons/edmund-cheng(e4532e4c-b61b-4d00-aae4-8483bd9c2dab).html), [Dr. Fei Shen](https://www.cityu.edu.hk/com/Profile.aspx?u=feishen), and [Prof. Richard M WALKER](https://scholars.cityu.edu.hk/en/persons/richard-m-walker(4e5b1e30-0aff-48b9-9cb5-005df01e6c86).html).
+* I am now pursuing the Ph.D. degree in the [Department of Public and International Affairs](https://www.cityu.edu.hk/pia/)(PIA) at [City University of Hong Kong](https://www.cityu.edu.hk)(CityU) under the supervision of [Dr. Edmund Cheng](https://scholars.cityu.edu.hk/en/persons/edmund-cheng(e4532e4c-b61b-4d00-aae4-8483bd9c2dab).html), [Dr. Fei Shen](https://www.cityu.edu.hk/com/Profile.aspx?u=feishen), and [Prof. Richard M WALKER](https://scholars.cityu.edu.hk/en/persons/richard-m-walker(4e5b1e30-0aff-48b9-9cb5-005df01e6c86).html).
 * My research interests include public opinion, media governance, and big data analysis.
 * I am also an amateur lyricist now, as one of the founders of a music culture studio in Shanghai.
 
 Education
 ======
-* Ph.D. in Political Communication, City University of Hong Kong, 2020-Present
-* M.A. in Communication and New Media, City University of Hong Kong, 2019
+* Ph.D. in Political Communication, CityU, 2020-Present
+* M.A. in Communication and New Media, CityU, 2019
 * B.A. in Journalism, Chang'an University, 2017
 
 Summer institute
@@ -27,22 +27,22 @@ Summer institute
 
 Research experience
 ======
-* Feb 2022 – May 2022, Part-time Research Assistant, Department of Asian and International Studies, City University of Hong Kong
+* Part-time Research Assistant, Department of Asian and International Studies, CityU, Feb 2022 – May 2022
   * Supervisor: [Dr. Claudia Kim](https://scholars.cityu.edu.hk/en/persons/claudia-junghyun-kim(de65455d-e3da-4aea-a311-65e51d800c2b).html)
   * Project: [Base Towns: Local Contestation of Global U.S. Military Presence in Korea and Japan](https://www.amazon.com/Base-Towns-Contestation-Military-POLITICS/dp/0197665276)
   * Duties included: Data analysis and visualization
 
-* Aug 2019 – Jul 2020, Research Associate, School of Law, City University of Hong Kong
+* Research Associate, School of Law, CityU, Aug 2019 – Jul 2020
   * Supervisor: [Dr. Chan Chi Hin Peter](https://scholars.cityu.edu.hk/en/persons/chi-hin-peter-chan(a591ae8a-d0be-4128-a5ee-65606acb66bf).html)
   * Project: [Are Chinese Courts Pro-Labor or Pro-Employer?](https://www.scopus.com/record/display.uri?eid=2-s2.0-85128674338&origin=recordpage)(GRF- 90429149)
   * Duties included: Group Leader, Data collection and analysis 
   
-* Apr 2019 – Jul 2019, Part-time Research Assistant, School of Law, City University of Hong Kong
+* Part-time Research Assistant, School of Law, CityU, Apr 2019 – Jul 2019
   * Supervisor: [Dr. Chan Chi Hin Peter](https://scholars.cityu.edu.hk/en/persons/chi-hin-peter-chan(a591ae8a-d0be-4128-a5ee-65606acb66bf).html)
   * Project : [Gender Inequality in Chinese Courts: the Case of Married-Out Women and Their Rural Land Rights](https://www.hastingslawjournal.org/do-the-haves-come-out-ahead-in-chinese-grassroots-courts-rural-land-disputes-between-married-out-women-and-village-collectives/)(ECS-9048112)
   * Duties included: Data collection and analysis
   
-* Jan 2019 – Aug 2020: Research Assistant, Department of Media and Communication, City University of Hong Kong
+* Research Assistant, Department of Media and Communication, CityU, Jan 2019 – Aug 2020
   * Supervisor: [Dr. Fei Shen Chris](https://www.cityu.edu.hk/com/Profile.aspx?u=feishen)
   * Project website: [Hong Kong Online Public Opinion Data Mining Project](http://www.webopinion.hk)(GRF-11600717)
   * Duties included: Data collection and analysis 
