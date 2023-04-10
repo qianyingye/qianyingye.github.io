@@ -65,8 +65,8 @@ Research reports
 
 Teaching
 ======
-* Sep 2022 - Dec 2022, Teaching Assistant, [PIA3607 - Advanced Research Methodology](https://www.cityu.edu.hk/catalogue/ug/current/course/PIA3607.htm)
-* Jan 2022 - Apr 2022, Teaching Assistant, [PIA3120 - Politics and Media](https://www.cityu.edu.hk/catalogue/ug/current/course/PIA3120.htm)
+* Teaching Assistant, [PIA3607 - Advanced Research Methodology](https://www.cityu.edu.hk/catalogue/ug/current/course/PIA3607.htm), Sep 2022 - Dec 2022
+* Teaching Assistant, [PIA3120 - Politics and Media](https://www.cityu.edu.hk/catalogue/ug/current/course/PIA3120.htm), Jan 2022 - Apr 2022
 
 Skills
 ======
