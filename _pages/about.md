@@ -28,7 +28,9 @@ Summer institute
 Research experience
 ======
 * Research Assistant (PT), Department of Asian and International Studies, City University of Hong Kong, Feb 2022 – May 2022
-  * **Supervisor**: [Dr. Claudia Kim](https://scholars.cityu.edu.hk/en/persons/claudia-junghyun-kim(de65455d-e3da-4aea-a311-65e51d800c2b).html) | **Project**: [Base Towns: Local Contestation of Global U.S. Military Presence in Korea and Japan](https://www.amazon.com/Base-Towns-Contestation-Military-POLITICS/dp/0197665276) | **Duties included**: Data analysis and visualization
+  * Supervisor: [Dr. Claudia Kim](https://scholars.cityu.edu.hk/en/persons/claudia-junghyun-kim(de65455d-e3da-4aea-a311-65e51d800c2b).html)
+  * Project: [Base Towns: Local Contestation of Global U.S. Military Presence in Korea and Japan](https://www.amazon.com/Base-Towns-Contestation-Military-POLITICS/dp/0197665276)
+  * Duties included: Data analysis and visualization
 
 * Research Associate (FT), School of Law, City University of Hong Kong, Aug 2019 – Jul 2020
   * Supervisor: [Dr. Chan Chi Hin Peter](https://scholars.cityu.edu.hk/en/persons/chi-hin-peter-chan(a591ae8a-d0be-4128-a5ee-65606acb66bf).html)
