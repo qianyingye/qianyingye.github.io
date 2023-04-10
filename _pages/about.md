@@ -35,7 +35,7 @@ Research experience
 * Research Associate (FT), School of Law, City University of Hong Kong, Aug 2019 – Jul 2020
   * Supervisor: [Dr. Chan Chi Hin Peter](https://scholars.cityu.edu.hk/en/persons/chi-hin-peter-chan(a591ae8a-d0be-4128-a5ee-65606acb66bf).html)
   * Project: [Are Chinese Courts Pro-Labor or Pro-Employer?](https://www.scopus.com/record/display.uri?eid=2-s2.0-85128674338&origin=recordpage)(GRF- 90429149)
-  * Duties included: Group Leader, data collection, analysis and visualization
+  * Duties included: Group Leader, data collection, analysis, and visualization
   
 * Research Assistant (PT), School of Law, City University of Hong Kong, Apr 2019 – Jul 2019
   * Supervisor: [Dr. Chan Chi Hin Peter](https://scholars.cityu.edu.hk/en/persons/chi-hin-peter-chan(a591ae8a-d0be-4128-a5ee-65606acb66bf).html)
@@ -45,7 +45,7 @@ Research experience
 * Research Assistant (PT), Department of Media and Communication, City University of Hong Kong, Jan 2019 – Aug 2020
   * Supervisor: [Dr. Fei Shen Chris](https://www.cityu.edu.hk/com/Profile.aspx?u=feishen)
   * Project website: [Hong Kong Online Public Opinion Data Mining Project](http://www.webopinion.hk)(GRF-11600717)
-  * Duties included: Data collection, analysis and visualization
+  * Duties included: Data collection, analysis, and visualization
 
 Publication
 ======
