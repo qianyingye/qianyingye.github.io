@@ -49,6 +49,7 @@ Publication
 * Jin, X., **Ye, Q.**, & Zhang, Y. (2021). [Trust and Credibility: The Differences between Perceiving an AI Anchor as AI and Human.](https://www.researchgate.net/publication/348548313_Trust_and_Credibility_The_Differences_between_Perceiving_an_AI_Anchor_as_AI_and_Human) 71st Annual International Communication Association Conference (ICA21).(present)
 * Qiu, S., An, Z., **Ye, Q.**, & Jin, X. (2021). [Political Identity as an Obstacle: The Effect of Local Identity and Perceived Benefit on Use Intention of Health Code in Hong Kong during COVID-19.](https://scholars.cityu.edu.hk/en/publications/political-identity-as-an-obstacle(5b95a339-4fb2-4812-8b43-f2ffcf3f7bb8).html) 40-41. Paper presented at 2021 International Association for Media and Communication Research Conference (IAMCR 2021), Nairobi, Kenya.(present)
 * **Ye, Q.**, Zhang, Y., Hu, P., Wang, M., & Zhu, C. (2021). [Acceptance of 5G in China based on TAM.](https://scholars.cityu.edu.hk/en/publications/acceptance-of-5g-in-china-based-on-tam(180bd01b-09a7-4320-8636-a1306f37d1cb).html) AEJMC Midwinter Conference.(present)
+Jin, X., & **Ye, Q.**, (2019). Impact of Different Social Media Context on Attitude Polarization of Hot Topics Online. 2018 Ph.D. Student New Media Conference, Beijing, China. (present)
 
 Research report
 ======
