@@ -18,12 +18,9 @@ Education
 * Ph.D. in Political Communication, City University of Hong Kong, 2020-Present
 * M.A. in Communication and New Media, City University of Hong Kong, 2019
 * B.A. in Journalism, Chang'an University, 2017
-
-Summer institute
-======
-* School of Journalism, Fudan University, Jul 2022
-* Zhou Enlai School of Government, Nankai University, Jul 2022
-* School of Journalism, Fudan University, Jul 2021
+* Summer institute, School of Journalism, Fudan University, Jul 2022 
+* Summer institute, Zhou Enlai School of Government, Nankai University, Jul 2022
+* Summer institute, School of Journalism, Fudan University, Jul 2021
 
 Research experience
 ======
