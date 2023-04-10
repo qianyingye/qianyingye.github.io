@@ -66,7 +66,7 @@ Research reports
 * Shen, F., Xia, C., Yu, W., Min, C., Wang, T., Wu, Y., & **Ye, Q.** (2021, May 23). The Growth of Negative Sentiment in Post-Umbrella Movement Hong Kong: Analyzing Public Opinion Online from 2017 to 2019. [https://doi.org/10.31235/osf.io/tnxw4](https://doi.org/10.31235/osf.io/tnxw4)
 
   
-Teaching Assistant
+Teaching assistant
 ======
 * [PIA3607 - Advanced Research Methodology](https://www.cityu.edu.hk/catalogue/ug/current/course/PIA3607.htm)
 * [PIA3120 - Politics and Media](https://www.cityu.edu.hk/catalogue/ug/current/course/PIA3120.htm)
