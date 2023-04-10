@@ -31,18 +31,18 @@ Research experience
 
 * Research Associate (FT) & Research Assistant (PT), School of Law, City University of Hong Kong, Aug 2019 – Jul 2020 & Apr 2019 – Jul 2019
   * Supervisor: [Dr. Chan Chi Hin Peter](https://scholars.cityu.edu.hk/en/persons/chi-hin-peter-chan(a591ae8a-d0be-4128-a5ee-65606acb66bf).html)  
-  * Project: How are Defendants with Diminished Capacity Sentenced in China? (Co-PI,SSRG) | [Gender Inequality in Chinese Courts: the Case of Married-Out Women and Their Rural Land Rights](https://www.hastingslawjournal.org/do-the-haves-come-out-ahead-in-chinese-grassroots-courts-rural-land-disputes-between-married-out-women-and-village-collectives/)(ECS-9048112) | [Are Chinese Courts Pro-Labor or Pro-Employer?](https://www.scopus.com/record/display.uri?eid=2-s2.0-85128674338&origin=recordpage)(GRF-90429149)
+  * Project: How are Defendants with Diminished Capacity Sentenced in China? (Co-PI,SSRG) | [Gender Inequality in Chinese Courts: the Case of Married-Out Women and Their Rural Land Rights](https://www.hastingslawjournal.org/do-the-haves-come-out-ahead-in-chinese-grassroots-courts-rural-land-disputes-between-married-out-women-and-village-collectives/) (ECS-9048112) | [Are Chinese Courts Pro-Labor or Pro-Employer?](https://www.scopus.com/record/display.uri?eid=2-s2.0-85128674338&origin=recordpage) (GRF-90429149)
   * Duties included: Group Leader; data collection, analysis, and visualization; article writing
 
 * Research Assistant (PT), Department of Media and Communication, City University of Hong Kong, Jan 2019 – Aug 2020
   * Supervisor: [Dr. Fei Shen Chris](https://www.cityu.edu.hk/com/Profile.aspx?u=feishen)
-  * Project website: [Hong Kong Online Public Opinion Data Mining Project](http://www.webopinion.hk)(GRF-11600717)
+  * Project website: [Hong Kong Online Public Opinion Data Mining Project](http://www.webopinion.hk) (GRF-11600717)
   * Duties included: Data collection, analysis, and visualization
 
 Publication
 ======
 * **Ye, Q**. (2023). Exploring Collaborative Governance Approach for Misinformation on Chinese Social Media. 21st Annual International Conference on Communication and Mass Media 8-11 May 2023, Athens, Greece. (present)
-* Wu, Y., **Ye, Q**., Shen, F., Zhang, Z., & Jiang, C. L. (2022). Country- and app-level factors affecting the adoption and evaluation of COVID-19 mobile apps. BMC Public Health, 22, [2457]. [https://doi.org/10.1186/s12889-022-14918-8](https://doi.org/10.1186/s12889-022-14918-8) (SCI Q2)
+* Wu, Y., **Ye, Q**., Shen, F., Zhang, Z., & Jiang, C. L. (2022). Country- and app-level factors affecting the adoption and evaluation of COVID-19 mobile apps. BMC Public Health, 22, [2457]. [https://doi.org/10.1186/s12889-022-14918-8](https://doi.org/10.1186/s12889-022-14918-8) (**SCI Q2**)
 * **Ye, Q.** (2022). [Who can be the Weibo supervisor? the co-production of social media governance in mainland China](http://beijing2022.iamcr.org/iamcr.org/beijing2022/abstract-books.html). Paper presented at 2022 International Association for Media and Communication Research Annual Conference (IAMCR 2022), Beijing, China.(present)
 * Jin, X., **Ye, Q.**, & Zhang, Y. (2021). [Trust and Credibility: The Differences between Perceiving an AI Anchor as AI and Human.](https://www.researchgate.net/publication/348548313_Trust_and_Credibility_The_Differences_between_Perceiving_an_AI_Anchor_as_AI_and_Human) 71st Annual International Communication Association Conference (ICA21).(present)
 * Qiu, S., An, Z., **Ye, Q.**, & Jin, X. (2021). [Political Identity as an Obstacle: The Effect of Local Identity and Perceived Benefit on Use Intention of Health Code in Hong Kong during COVID-19.](https://scholars.cityu.edu.hk/en/publications/political-identity-as-an-obstacle(5b95a339-4fb2-4812-8b43-f2ffcf3f7bb8).html) 40-41. Paper presented at 2021 International Association for Media and Communication Research Conference (IAMCR 2021), Nairobi, Kenya.(present)
