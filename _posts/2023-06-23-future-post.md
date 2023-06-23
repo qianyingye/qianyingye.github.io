@@ -1,5 +1,5 @@
 ---
-title: 'R convert rtf to csv'
+title: 'R｜convert rtf to csv'
 date: 2023-06-23
 permalink: /posts/2012/08/blog-post-4/
 tags:
