@@ -10,8 +10,8 @@ tags:
 
 
 ```R
+#install.packages("readtext")
 library(readtext)
-library(tidyverse)
 write_rtf_data_to_csv <- function(input_folder, output_folder, output_file) {
   # Get the list of RTF files in the input folder
   rtf_files <- list.files(path = input_folder, pattern = "\\.rtf$", full.names = TRUE)
